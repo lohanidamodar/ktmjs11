@@ -1,0 +1,13 @@
+version: '3.3'
+
+services:
+  nodejs:
+    tty: true
+    image: 'node:8.11'
+    # ports:
+    #   - "4005:3000"
+    volumes:
+      - ./:/app
+    working_dir: /app
+    network_mode: host
+    entrypoint: yarn start
