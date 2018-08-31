@@ -1,48 +1,6 @@
-# Spectacle Boilerplate
+# Roadmap to Becoming a Successful Developer in 2018
+(KTMJS#11)
 
-## Contents
+Becoming a developer is not easy. The first step is the most difficult one. With the tons of information available, you tend to be more confused than helped. So in this presentation I will provide you a roadmap that guides you to the tools and technologies that you need to learn to become a successful developer.
 
-- [Reference](#reference)
-- [Getting Started](#getting-started)
-- [Build & Deployment](#build-deployment)
-
-## Reference
-
-The Spectacle core API is available at [https://github.com/FormidableLabs/spectacle/blob/master/README.md](https://github.com/FormidableLabs/spectacle/blob/master/README.md).
-
-## Getting Started
-
-After downloading the boilerplate, your first order of business is to open a terminal and run 
-```bash
-yarn
-```
-or 
-```bash
-npm install
-```
-if you're about that life.
-
-Next, run 
-```bash
-rm -R .git
-```
-to remove the existing version control.
-
-Then, to start up the local server, run
-```bash
-npm start
-```
-
-Open a browser and hit [http://localhost:3000](http://localhost:3000), and we are ready to roll.
-
-## Build & Deployment
-
-Building the dist version of the project is as easy as running
-```bash
-npm run build
-```
-
-If you want to deploy the slideshow to surge, run 
-```bash
-npm run deploy
-```
+This gives you insight into both Coding related technologies and non coding tools and technologies that you must understand and use to become a successful developer.
